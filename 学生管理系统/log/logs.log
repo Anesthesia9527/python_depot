@@ -1,0 +1,57 @@
+2019-08-29 16:17:44 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-29 16:17:46 - root[60] - INFO -manager:  用户：admin,查询系统全部的课程信息
+2019-08-29 16:17:46 - root[70] - INFO -manager:  用户：admin,查询系统全部学生的信息.
+2019-08-29 16:17:47 - root[79] - INFO -manager:  用户：admin,查询系统学生选课的信息.
+2019-08-29 16:17:52 - root[54] - INFO -manager:  用户：admin,创建新的学生账号：stud2 密码：123.
+2019-08-29 16:17:55 - root[70] - INFO -manager:  用户：admin,查询系统全部学生的信息.
+2019-08-29 16:17:58 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-08-29 17:23:10 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-29 17:31:26 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-29 17:31:31 - root[55] - INFO -manager:  用户：admin,创建新的学生账号：stud1 密码：123.
+2019-08-29 17:31:35 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-08-29 17:31:39 - root[29] - INFO -main:  用户：stud1 登录学生选课系统.
+2019-08-29 17:31:46 - root[39] - INFO -student:  用户:stud1,选择新的课程Python.
+2019-08-29 17:31:53 - root[39] - INFO -student:  用户:stud1,选择新的课程Linux.
+2019-08-29 17:31:54 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-08-29 17:31:55 - root[54] - INFO -student:  用户：stud1,查询系统全部的课程.
+2019-08-29 17:31:57 - root[44] - INFO -main:  用户：stud1,退出Student页面.
+2019-08-29 17:32:02 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-29 17:32:22 - root[36] - ERROR -manager:  用户：admin,创建新课程的时候,创建失败,应按格式输入：课程名,课程周期,课程价格,授课老师.
+2019-08-29 17:32:24 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-08-29 21:01:24 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-29 21:01:26 - root[61] - INFO -manager:  用户：admin,查询系统全部的课程信息
+2019-08-29 21:01:27 - root[71] - INFO -manager:  用户：admin,查询系统全部学生的信息.
+2019-08-29 21:01:28 - root[80] - INFO -manager:  用户：admin,查询系统学生选课的信息.
+2019-08-30 19:28:55 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-08-30 19:29:06 - root[53] - ERROR -main:  用户：stud1`,登录失败,用户名或密码错误.
+2019-08-30 19:29:16 - root[29] - INFO -main:  用户：stud1 登录学生选课系统.
+2019-08-30 19:29:18 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-08-30 19:29:18 - root[54] - INFO -student:  用户：stud1,查询系统全部的课程.
+2019-08-30 19:29:38 - root[39] - INFO -student:  用户:stud1,选择新的课程PHP.
+2019-08-30 19:29:40 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-08-30 19:29:42 - root[44] - INFO -main:  用户：stud1,退出Student页面.
+2019-08-31 17:26:19 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-08-31 17:26:23 - root[61] - INFO -manager:  用户：admin,查询系统全部的课程信息
+2019-08-31 17:26:25 - root[71] - INFO -manager:  用户：admin,查询系统全部学生的信息.
+2019-08-31 17:26:27 - root[80] - INFO -manager:  用户：admin,查询系统学生选课的信息.
+2019-08-31 17:26:51 - root[34] - INFO -manager:  用户：admin,创建新的go课程.
+2019-08-31 17:27:29 - root[36] - ERROR -manager:  用户：admin,创建新课程的时候,创建失败,应按格式输入：课程名,课程周期,课程价格,授课老师.
+2019-08-31 17:27:46 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-08-31 17:27:50 - root[29] - INFO -main:  用户：stud1 登录学生选课系统.
+2019-08-31 17:27:52 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-08-31 17:27:54 - root[54] - INFO -student:  用户：stud1,查询系统全部的课程.
+2019-08-31 17:27:59 - root[39] - INFO -student:  用户:stud1,选择新的课程go.
+2019-08-31 17:28:03 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-08-31 17:28:06 - root[44] - INFO -main:  用户：stud1,退出Student页面.
+2019-09-05 18:02:07 - root[29] - INFO -main:  用户：admin 登录学生选课系统.
+2019-09-05 18:02:09 - root[61] - INFO -manager:  用户：admin,查询系统全部的课程信息
+2019-09-05 18:02:09 - root[71] - INFO -manager:  用户：admin,查询系统全部学生的信息.
+2019-09-05 18:02:10 - root[80] - INFO -manager:  用户：admin,查询系统学生选课的信息.
+2019-09-05 18:02:11 - root[44] - INFO -main:  用户：admin,退出Manager页面.
+2019-09-05 18:02:14 - root[29] - INFO -main:  用户：stud1 登录学生选课系统.
+2019-09-05 18:02:16 - root[54] - INFO -student:  用户：stud1,查询系统全部的课程.
+2019-09-05 18:02:16 - root[44] - INFO -main:  用户：stud1,退出Student页面.
+2019-09-05 18:02:21 - root[29] - INFO -main:  用户：stud1 登录学生选课系统.
+2019-09-05 18:02:23 - root[54] - INFO -student:  用户：stud1,查询系统全部的课程.
+2019-09-05 18:02:24 - root[49] - INFO -student:  用户：stud1,查询自己选择的课程.
+2019-09-05 18:02:27 - root[44] - INFO -main:  用户：stud1,退出Student页面.
